@@ -21,3 +21,4 @@ public class Class3 {
 		 }
 	}
 }
+//to hide the info from user we use abstraction and to achieve this wee use abstract keyword and interfaces
