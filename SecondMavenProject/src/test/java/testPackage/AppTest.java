@@ -9,5 +9,6 @@ public class AppTest
     {
         System.out.println("Learning maven");
         System.out.println("Learning maven");
+        System.out.println("Learning maven");
     }
 }
